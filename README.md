@@ -1,0 +1,2 @@
+# FreeRTOS_STM32F429I
+Build FreeRTOS 8.2 based on STM32F429I
